@@ -1,9 +1,3 @@
-- path: as-tibble-iris
-  name: as-tibble-iris
-  rows: 150
-  cols: 5
-  description: The iris data set
-  type: table
 - path: iris
   name: iris
   rows: 150
